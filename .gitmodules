@@ -1,0 +1,105 @@
+[submodule "மறுபெயரிடுஎறும்பு"]
+	path = மறுபெயரிடுஎறும்பு
+	url = https://github.com/247i/AntRenamer.git
+[submodule "பயன்பாடுகள்"]
+	path = பயன்பாடுகள்
+	url = https://github.com/247i/Apps.git
+[submodule "அனைத்தும்மாற்றி"]
+	path = அனைத்தும்மாற்றி
+	url = https://github.com/247i/ConvertAll.git
+[submodule "சிதுப்புரவாளர்"]
+	path = சிதுப்புரவாளர்
+	url = https://github.com/247i/CCleaner.git
+[submodule "மட்டிசாளரம்"]
+	path = மட்டிசாளரம்
+	url = https://github.com/247i/ClamWin.git
+[submodule "நகல்கண்டுபிடி"]
+	path = நகல்கண்டுபிடி
+	url = https://github.com/247i/DupFileFinder.git
+[submodule "கோப்புசில்லா32"]
+	path = கோப்புசில்லா32
+	url = https://github.com/247i/FileZilla32.git
+[submodule "எழுத்துருவடிவாக்கி"]
+	path = எழுத்துருவடிவாக்கி
+	url = https://github.com/247i/FontForge.git
+[submodule "இயக்கிகள்"]
+	path = இயக்கிகள்
+	url = https://github.com/247i/Executables.git
+[submodule "தொலை"]
+	path = தொலை
+	url = https://github.com/247i/RDP.git
+[submodule "கோப்புசில்லா64"]
+	path = கோப்புசில்லா64
+	url = https://github.com/247i/FileZilla64.git
+[submodule "மறுபெயரிடு"]
+	path = மறுபெயரிடு
+	url = https://github.com/247i/ReNamer.git
+[submodule "தஅநெமனிதன்"]
+	path = தஅநெமனிதன்
+	url = https://github.com/247i/E-Mail.git
+[submodule "இணையர்தடு"]
+	path = இணையர்தடு
+	url = https://github.com/247i/PeerBlock.git
+[submodule "அறிவன்2"]
+	path = அறிவன்2
+	url = https://github.com/247i/progit2.git
+[submodule "பைத்தான்_ஆவணங்கள்"]
+	path = பைத்தான்_ஆவணங்கள்
+	url = https://github.com/247i/python-docs-ta.git
+[submodule "மூடுல்"]
+	path = மூடுல்
+	url = https://github.com/247i/Moodle.git
+[submodule "வானொலிஉறுதி"]
+	path = வானொலிஉறுதி
+	url = https://github.com/247i/RadioSure.git
+[submodule "கணிப்பான்"]
+	path = கணிப்பான்
+	url = https://github.com/247i/Qalculate.git
+[submodule "திரைக்கதைகள்"]
+	path = திரைக்கதைகள்
+	url = https://github.com/247i/ScreenPlays.git
+[submodule "குறுக்குவழிகள்தேடிமாற்று"]
+	path = குறுக்குவழிகள்தேடிமாற்று
+	url = https://github.com/247i/ShortcutsSearchAndReplace.git
+[submodule "அகக்கருவிகள்"]
+	path = அகக்கருவிகள்
+	url = https://github.com/247i/SIT.git
+[submodule "வேகநெருக்கடி"]
+	path = வேகநெருக்கடி
+	url = https://github.com/247i/SpeedCrunch.git
+[submodule "கட்டமைப்புவினவல்மொழி"]
+	path = கட்டமைப்புவினவல்மொழி
+	url = https://github.com/247i/SQL.git
+[submodule "தொடக்ககாவலாளி"]
+	path = தொடக்ககாவலாளி
+	url = https://github.com/247i/StartupSentinel.git
+[submodule "தட்டச்சுகுறிப்பு10"]
+	path = தட்டச்சுகுறிப்பு10
+	url = https://github.com/247i/Tipp10.git
+[submodule "தட்டச்சுவேகம்"]
+	path = தட்டச்சுவேகம்
+	url = https://github.com/247i/TypeFaster.git
+[submodule "இறுதிதுண்டுஒட்டு"]
+	path = இறுதிதுண்டுஒட்டு
+	url = https://github.com/247i/UltraDefrag.git
+[submodule "நிரல்நீக்கிஃமென்"]
+	path = நிரல்நீக்கிஃமென்
+	url = https://github.com/247i/Uninstall-ZSoft.git
+[submodule "இறுதிசாளரமாற்றி"]
+	path = இறுதிசாளரமாற்றி
+	url = https://github.com/247i/UWT.git
+[submodule "சாளரசிடிமாதிரி"]
+	path = சாளரசிடிமாதிரி
+	url = https://github.com/247i/WinCDEmu.git
+[submodule "சாளரகேப்புறைவிவரம்"]
+	path = சாளரகேப்புறைவிவரம்
+	url = https://github.com/247i/WinDirStat
+[submodule "சாளரபதிவு"]
+	path = சாளரபதிவு
+	url = https://github.com/247i/WinRegister
+[submodule "அறிவுநிரல்நீக்கி"]
+	path = அறிவுநிரல்நீக்கி
+	url = https://github.com/247i/Wise.git
+[submodule "ஃஎண்"]
+	path = ஃஎண்
+	url = https://github.com/247i/zint.git
