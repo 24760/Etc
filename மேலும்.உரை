@@ -1,0 +1,52 @@
+# சாளர கருவிகள்
+
+# if submodules are empty then use the following command 
+- git submodule update --init --recursive 
+
+utilities - பயன்பாடுகள்
+- git submodule add https://github.com/247i/AntRenamer.git மறுபெயரிடுஎறும்பு 
+- git submodule add https://github.com/247i/Apps.git பயன்பாடுகள்
+- git submodule add https://github.com/247i/ASCII.git ஆங்கிலம்
+- git submodule add https://github.com/247i/CCleaner.git சிதுப்புரவாளர்
+- git submodule add https://github.com/247i/ClamWin.git மட்டிசாளரம்
+- git submodule add https://github.com/247i/ConvertAll.git அனைத்தும்மாற்றி
+- git submodule add https://github.com/247i/DupFileFinder.git நகல்கண்டுபிடி
+- git submodule add https://github.com/247i/Executables.git இயக்கிகள்
+- #Need to recreate submodule and rearrange programs
+- git submodule add https://github.com/247i/RDP.git தொலை
+# Needs works
+
+- git submodule add https://github.com/247i/FontForge.git எழுத்துருவடிவாக்கி
+- git submodule add https://github.com/247i/FileZilla32.git கோப்புசில்லா32
+- git submodule add https://github.com/247i/FileZilla64.git கோப்புசில்லா64
+- git submodule add https://github.com/247i/ReNamer.git மறுபெயரிடு
+
+- git submodule add https://github.com/247i/E-Mail.git தஅநெமனிதன்
+- #Need to rename and rearrange popman
+
+
+- git submodule add https://github.com/247i/Moodle.git மூடுல் 
+- git submodule add https://github.com/247i/PeerBlock.git இணையர்தடு
+- git submodule add https://github.com/247i/progit2.git அறிவன்2
+- git submodule add https://github.com/247i/python-docs-ta.git பைத்தான்_ஆவணங்கள்
+- git submodule add https://github.com/247i/Qalculate.git கணிப்பான்
+- git submodule add https://github.com/247i/RadioSure.git வானொலிஉறுதி
+
+- git submodule add https://github.com/247i/ScreenPlays.git திரைக்கதைகள்
+- git submodule add https://github.com/247i/ShortcutsSearchAndReplace.git குறுக்குவழிகள்தேடிமாற்று
+- git submodule add https://github.com/247i/SIT.git அகக்கருவிகள்
+- git submodule add https://github.com/247i/SpeedCrunch.git வேகநெருக்கடி
+- git submodule add https://github.com/247i/SQL.git கட்டமைப்புவினவல்மொழி
+- git submodule add https://github.com/247i/StartupSentinel.git தொடக்ககாவலாளி
+# create submodule
+- git submodule add https://github.com/247i/Tipp10.git தட்டச்சுகுறிப்பு10
+- git submodule add https://github.com/247i/TypeFaster.git தட்டச்சுவேகம்
+- git submodule add https://github.com/247i/UltraDefrag.git இறுதிதுண்டுஒட்டு
+- git submodule add https://github.com/247i/Uninstall-ZSoft.git நிரல்நீக்கிஃமென்
+- git submodule add https://github.com/247i/UWT.git இறுதிசாளரமாற்றி
+- git submodule add https://github.com/247i/WinCDEmu.git சாளரசிடிமாதிரி
+- git submodule add https://github.com/247i/WinDirStat சாளரகேப்புறைவிவரம்
+- git submodule add https://github.com/247i/WinRegister சாளரபதிவு
+- git submodule add https://github.com/247i/Wise.git அறிவுநிரல்நீக்கி
+- git submodule add https://github.com/247i/zint.git ஃஎண்
+
