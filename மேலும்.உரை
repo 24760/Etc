@@ -29,7 +29,7 @@ utilities - பயன்பாடுகள்
 - git submodule add https://github.com/247i/progit2.git அறிவன்2
 - git submodule add https://github.com/247i/python-docs-ta.git பைத்தான்_ஆவணங்கள்
 - git submodule add https://github.com/247i/Qalculate.git கணிப்பான்
-- git submodule add https://github.com/247i/RadioSure.git வானொலிஉறுதி
+
 
 - git submodule add https://github.com/247i/ScreenPlays.git திரைக்கதைகள்
 - git submodule add https://github.com/247i/ShortcutsSearchAndReplace.git குறுக்குவழிகள்தேடிமாற்று
