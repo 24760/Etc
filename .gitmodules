@@ -103,3 +103,6 @@
 [submodule "ஃஎண்"]
 	path = ஃஎண்
 	url = https://github.com/247i/zint.git
+[submodule "நிரல்நீக்கிஅறிவு"]
+	path = நிரல்நீக்கிஅறிவு
+	url = https://github.com/247i/Uninstall-Wise.git

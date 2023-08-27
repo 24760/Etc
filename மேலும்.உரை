@@ -42,11 +42,12 @@ utilities - பயன்பாடுகள்
 - git submodule add https://github.com/247i/TypeFaster.git தட்டச்சுவேகம்
 - git submodule add https://github.com/247i/UltraDefrag.git இறுதிதுண்டுஒட்டு
 - git submodule add https://github.com/247i/Uninstall-ZSoft.git நிரல்நீக்கிஃமென்
+- git submodule add https://github.com/247i/Uninstall-Wise.git நிரல்நீக்கிஅறிவு
 - git submodule add https://github.com/247i/UWT.git இறுதிசாளரமாற்றி
 - git submodule add https://github.com/247i/WinCDEmu.git சாளரசிடிமாதிரி
 - git submodule add https://github.com/247i/WinDirStat சாளரகேப்புறைவிவரம்
 - git submodule add https://github.com/247i/WinRegister சாளரபதிவு
-- git submodule add https://github.com/247i/Wise.git அறிவுநிரல்நீக்கி
+- git submodule add https://github.com/247i/Wise.git அறிவு
 - git submodule add https://github.com/247i/zint.git ஃஎண்
 - git submodule add https://github.com/247i/ASCII.git ஆங்கிலம்
 
