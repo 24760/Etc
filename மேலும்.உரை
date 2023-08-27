@@ -6,8 +6,9 @@
 utilities - பயன்பாடுகள்
 - git submodule add https://github.com/247i/AntRenamer.git மறுபெயரிடுஎறும்பு 
 - git submodule add https://github.com/247i/Apps.git பயன்பாடுகள்
-- git submodule add https://github.com/247i/CCleaner.git சிதுப்புரவாளர்
 - git submodule add https://github.com/247i/ClamWin.git மட்டிசாளரம்
+- git submodule add https://github.com/247i/CleanerC.git துப்புரவாளர்சி
+- git submodule add https://github.com/247i/CleanerWise.git துப்புரவாளர்அறிவு
 - git submodule add https://github.com/247i/ConvertAll.git அனைத்தும்மாற்றி
 - git submodule add https://github.com/247i/DupFileFinder.git நகல்கண்டுபிடி
 - git submodule add https://github.com/247i/Executables.git இயக்கிகள்
