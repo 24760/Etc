@@ -106,3 +106,6 @@
 [submodule "நிரல்நீக்கிஅறிவு"]
 	path = நிரல்நீக்கிஅறிவு
 	url = https://github.com/247i/Uninstall-Wise.git
+[submodule "துப்புரவாளர்அறிவு"]
+	path = துப்புரவாளர்அறிவு
+	url = https://github.com/247i/CleanerWise.git
