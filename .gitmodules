@@ -109,3 +109,6 @@
 [submodule "துப்புரவாளர்அறிவு"]
 	path = துப்புரவாளர்அறிவு
 	url = https://github.com/247i/CleanerWise.git
+[submodule "மரஅளவு"]
+	path = மரஅளவு
+	url = https://github.com/247i/TreeSize.git

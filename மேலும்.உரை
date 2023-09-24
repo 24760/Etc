@@ -40,6 +40,7 @@ utilities - பயன்பாடுகள்
 - git submodule add https://github.com/247i/StartupSentinel.git தொடக்ககாவலாளி
 # create submodule
 - git submodule add https://github.com/247i/Tipp10.git தட்டச்சுகுறிப்பு10
+- git submodule add https://github.com/247i/TreeSize.git மரஅளவு
 - git submodule add https://github.com/247i/TypeFaster.git தட்டச்சுவேகம்
 - git submodule add https://github.com/247i/UltraDefrag.git இறுதிதுண்டுஒட்டு
 - git submodule add https://github.com/247i/Uninstall-ZSoft.git நிரல்நீக்கிஃமென்
