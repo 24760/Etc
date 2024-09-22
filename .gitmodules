@@ -112,3 +112,6 @@
 [submodule "மரஅளவு"]
 	path = மரஅளவு
 	url = https://github.com/247i/TreeSize.git
+[submodule "மூலமரம்"]
+	path = மூலமரம்
+	url = https://github.com/247i/SourceTree.git
